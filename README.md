@@ -3,7 +3,7 @@ This tool let you unlock the bootloader of your Huawei / Honor Device even if th
 
 After closing the official EMUI website, which allowed to retrieve the code to unlock the bootloader of Huawei/Honor phones, here's the fastest free way to retrieve it by yourself.
 
-Built binary: releases
+Built binary: [releases](https://github.com/aattola/Huawei-Bootloader-Unlocker/releases/latest)
 
 
 ### How To use it
